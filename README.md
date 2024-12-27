@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am passionate about mathematics and artificial i
 
 
 ## 📈 GitHub Stats:
-![Kelian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelian-schulz&show_icons=true&hide_title=true)
+![Kelian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelianSchulz&show_icons=true&hide_title=true)
 
 ---
 
