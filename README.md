@@ -5,12 +5,12 @@ I'm a future researcher in AI — driven by a vision far beyond applications.
 ## 🧠 What I work on
 
 - 📌 **Current Project:**  
-  `Contractive Dynamical Systems & Their Role in Stable Neural Modeling`  
-  Exploring stability and convergence in dynamical systems — from simple functions to neural architectures.
+  `Self-Guided Learning Agent`  
+  Building a minimal AI system that decides *what* to learn — based on a defined knowledge interest.  
+  Inspired by curiosity, curriculum learning, and selective memory.
 
 - 🛠️ **Skills & Topics:**  
-  Applied Mathematics · Deep Learning · Dynamical Systems · Theory-Driven AI · Interpretability
-
+ Applied Mathematics · Deep Learning · Dynamical Systems · Learning Theory · Interpretability · Self-Supervision
 - 🧪 **Upcoming:**  
   Building a strong research portfolio during my studies — to one day contribute to high-impact fundamental research in AI.
 
