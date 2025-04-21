@@ -5,8 +5,8 @@ I'm a future researcher in AI — driven by a vision far beyond applications.
 ## 🧠 What I work on
 
 - 📌 **Current Project:**  
-  `Self-Guided Learning Agent`  
-  Building a minimal AI system that decides *what* to learn — based on a defined knowledge interest.  
+  `Vision-Self-Guided Learning Agent`  
+  Building a minimal AI system that decides *what* Image to save — based on a defined goal.  
   Inspired by curiosity, curriculum learning, and selective memory.
 
 - 🛠️ **Skills & Topics:**  
