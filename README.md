@@ -9,7 +9,7 @@ I'm a future researcher in AI — driven by a vision far beyond applications.
   This project is part of a long-term research preparation for high-impact, explainable AI work
 
 - 🛠️ **Skills & Topics:**  
- Applied Mathematics · Deep Learning · Dynamical Systems · Learning Theory · Interpretability · Self-Supervision
+ Applied Mathematics · Deep Learning · Interpretability
 - 🧪 **Upcoming:**  
   Building a strong research portfolio during my studies — to one day contribute to high-impact fundamental research in AI.
 
