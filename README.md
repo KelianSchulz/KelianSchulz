@@ -5,9 +5,8 @@ I'm a future researcher in AI — driven by a vision far beyond applications.
 ## 🧠 What I work on
 
 - 📌 **Current Project:**  
-  `Vision-Self-Guided Learning Agent`  
-  Building a minimal AI system that decides *what* Image to save — based on a defined goal.  
-  Inspired by curiosity, curriculum learning, and selective memory.
+  `Visional Reasoning Inside CNNs`  
+  This project is part of a long-term research preparation for high-impact, explainable AI work
 
 - 🛠️ **Skills & Topics:**  
  Applied Mathematics · Deep Learning · Dynamical Systems · Learning Theory · Interpretability · Self-Supervision
